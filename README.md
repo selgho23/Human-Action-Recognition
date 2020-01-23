@@ -1,4 +1,3 @@
-# project_3
 # Human Action Recognition (HAR)
 Topic -
 Machine Learning techniques in sensor based human activity recognition and understanding human actions using still images.
